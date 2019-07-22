@@ -1,4 +1,4 @@
-# helloworld
+# readingnotes
 
 hi man!
-i'm new here!
+this repository is set for reading notes!
